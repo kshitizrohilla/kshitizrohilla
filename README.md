@@ -32,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitizrohilla" height="30" width="40" />
   </a>
   
-  <a href="https://www.hackerearth.com/kshitizrohilla" target="blank">
+  <a href="https://www.hackerearth.com/@kshitizrohilla" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kshitizrohilla" height="30" width="40" />
   </a>
   
