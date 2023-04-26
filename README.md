@@ -91,5 +91,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitizrohilla&show_icons=true&theme=dark&border_radius=10&locale=en&layout=compact" alt="Kshitiz Singh Rohilla GitHub" width="75%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kshitizrohilla&show_icons=true&theme=dark&border_radius=10&locale=en&layout=compact" alt="Kshitiz Singh Rohilla GitHub" width="75%">
 </p>
