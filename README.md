@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Rohilla</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kshitizrohilla&theme=dark&border_radius=10&locale=en" alt="Kshitiz Singh Rohilla GitHub" width="75%">
+  <img src="https://streak-stats.demolab.com?user=kshitizrohilla&theme=highcontrast&border_radius=10&locale=en" alt="Kshitiz Singh Rohilla GitHub" width="75%">
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -91,5 +91,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kshitizrohilla&show_icons=true&theme=dark&border_radius=10&locale=en&layout=compact" alt="Kshitiz Singh Rohilla GitHub" width="75%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kshitizrohilla&show_icons=true&theme=highcontrast&border_radius=10&locale=en&layout=compact" alt="Kshitiz Singh Rohilla GitHub" width="75%">
 </p>
