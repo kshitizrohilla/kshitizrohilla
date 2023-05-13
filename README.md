@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kshitiz Singh Rohilla</h1>
+<h1 align="center">Hi 👋, I'm Kshitiz Rohilla</h1>
+<p align="center">View categorical organization of all the projects: <a href="https://kshitizrohilla.github.io">KshitizRohilla.github.io</a></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kshitizrohilla&theme=dark&hide_border=true&border_radius=5&locale=en" alt="Kshitiz Singh Rohilla GitHub" width="75%">
