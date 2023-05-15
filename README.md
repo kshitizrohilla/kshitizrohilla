@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kshitiz Rohilla</h1>
-<p align="center">View categorical organization of all the projects: <a href="https://kshitizrohilla.github.io">KshitizRohilla.github.io</a></p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kshitizrohilla&theme=dark&hide_border=true&border_radius=5&locale=en" alt="Kshitiz Singh Rohilla GitHub" width="75%">
-</p>
-
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -18,11 +12,7 @@
   </a>
   
   <a href="https://www.codechef.com/users/kshitizrohilla" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kshitizrohilla" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/kshitizrohilla" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kshitizrohilla" height="30" width="40" />
+    <img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" alt="kshitizrohilla" height="40" width="40" />
   </a>
   
   <a href="https://codeforces.com/profile/kshitizrohilla" target="blank">
@@ -32,19 +22,33 @@
   <a href="https://www.leetcode.com/kshitizrohilla" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitizrohilla" height="30" width="40" />
   </a>
-  
-  <a href="https://www.hackerearth.com/@kshitizrohilla" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kshitizrohilla" height="30" width="40" />
-  </a>
-  
-  <a href="https://auth.geeksforgeeks.org/user/kshitizrohilla" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kshitizrohilla" height="30" width="40"/>
-   </a>
 </p>
-
-<h3 align="center">Languages and Tools:</h3>
+  
+<h4 align="center">View categorical organization of all projects: <a href="https://kshitizrohilla.github.io">KshitizRohilla.github.io</a></h4>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=kshitizrohilla&theme=dark&hide_border=true&border_radius=5&locale=en" alt="Kshitiz Singh Rohilla GitHub" width="75%">
+</p>
+
+  
+<!--   <a href="https://www.hackerrank.com/kshitizrohilla" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kshitizrohilla" height="30" width="40" />
+  </a> -->
+  
+  
+  
+<!--   <a href="https://www.hackerearth.com/@kshitizrohilla" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kshitizrohilla" height="30" width="40" />
+  </a> -->
+  
+<!--   <a href="https://auth.geeksforgeeks.org/user/kshitizrohilla" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kshitizrohilla" height="30" width="40"/>
+   </a> -->
+<!-- </p> -->
+
+<!-- <h3 align="center">Languages and Tools:</h3> -->
+
+<!-- <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
@@ -79,17 +83,17 @@
   
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+  </a> -->
   
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
+  </a> -->
   
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   
-</p>
+</p> -->
 
 <!--<p align="center">
   <img style="border-radius: 50px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kshitizrohilla&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="Kshitiz Singh Rohilla GitHub" width="75%">
